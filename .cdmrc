@@ -1,2 +1,2 @@
-tabs : ['index.html']
+tabs : ['README.md']
 terminal : [echo, 1]
